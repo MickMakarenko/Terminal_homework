@@ -1,0 +1,17 @@
+Summery:
+
+Component:
+
+Severity:
+
+Priority:
+
+Status:
+
+Steps:
+
+	Result:
+	Expected Result:
+
+Attachments
+
