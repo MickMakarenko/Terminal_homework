@@ -1,5 +1,7 @@
 Summery:
 
+Autor:
+
 Component:
 
 Severity:
@@ -13,5 +15,6 @@ Steps:
 	Result:
 	Expected Result:
 
-Attachments
+Attachments:
+
 
